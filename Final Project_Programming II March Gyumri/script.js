@@ -1,7 +1,7 @@
 //*Final Project*//
 
 var matrix = [];
-var n = 50;    ///Մատրիքսի ամենահարմար կորդինատները, որի ժամանակ չի "կախում" կամ "կտրտում" դա 50x50 է:
+var n = 50;    /// 50x50 
 var m = 50;
 var side = 10;
 var grassArr = [];
@@ -135,7 +135,23 @@ function draw() {
         }
     }
 }
-
+// var obj = {
+//     "first_name": "Vardan",
+//     "last_name": "Hovsepyan",
+//     "age": 13,
+//     "tumo_student": true
+//  }
+//  var obj = {
+//     //first_name, last_name ...
+//     sayHello() {
+//         console.log("Hello");
+//     }
+//  }
+ 
+//  console.log(obj);
+//  console.log(obj.first_name);
+//  obj.sayHello();
+  
 
 
 
